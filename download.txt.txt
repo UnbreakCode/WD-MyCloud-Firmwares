@@ -1,0 +1,51 @@
+v4.x Firmware (1st Gen MyCloud / Single Bay)
+
+
+04.05.00-334 (03/12/2019): http://download.wdc.com/nas/sq-040500-334-20190221.deb
+04.05.00-327 (05/08/2017): http://download.wdc.com/nas/sq-040500-327-20180502.deb
+04.05.00-320 (11/28/2017): http://download.wdc.com/nas/sq-040500-320-20171027.deb
+04.05.00-315 (04/12/2017): http://download.wdc.com/nas/sq-040500-315-20170331.zip
+04.04.05-101 (12/13/2016): http://download.wdc.com/nas/sq-040405-101-20161110.zip
+04.04.04-101 (9/20/2016): http://download.wdc.com/nas/sq-040404-101-20160902.zip
+04.04.03-113 (05/23/2016): http://download.wdc.com/nas/sq-040403-113-20160510.zip
+04.04.02-105 (01/27/2016): http://download.wdc.com/nas/sq-040402-105-20160111.zip
+04.04.01-112 (10/21/2015): http://download.wdc.com/nas/sq-040401-112-20151013.deb.zip 
+04.04.00-308 (9/28/2015): http://download.wdc.com/nas/sq-040400-308-20150924.deb.zip
+04.04.00-307 (9/23/2015): http://download.wdc.com/nas/sq-040400-307-20150921.deb
+04.04.00-303 (9/10/2015): http://download.wdc.com/nas/sq-040400-303-20150902.deb.zip
+04.01.04-422 (5/11/2015): http://download.wdc.com/nas/sq-040104-422-20150423.deb.zip
+04.01.03-421 (2/23/2015): http://download.wdc.com/nas/sq-040103-421-20150217.deb.zip
+04.01.02-417 (12/17/2014): http://download.wdc.com/nas/sq-040102-417-20141211.deb.zip
+04.01.01-413 (11/19/2014): http://download.wdc.com/nas/sq-040101-413-20141106.deb.zip
+04.01.00-408 (10/27/2014): http://download.wdc.com/nas/sq-040100-408-20141010.deb.zip
+04.00.01-623 (9/23/2014): http://download.wdc.com/nas/sq-040001-623-20140904.deb.zip
+04.00.00-607 (7/9/2014): http://download.wdc.com/nas/sq-040000-607-20140630.deb.zip
+
+v3.x Firmware (1st Gen MyCloud / Single Bay)
+03.04.01-230 (4/21/2014): http://download.wdc.com/nas/sq-030401-230-20140415.deb.zip
+03.04.01-219 (3/5/2014): http://download.wdc.com/nas/sq-030401-219-20140218.zip
+03.03.02-165 (1/29/2014): http://download.wdc.com/nas/WDMyCloud-030302-165.zip
+03.03.01-156 (1/7/2014): http://download.wdc.com/nas/WDMyCloud-030301-156.zip
+03.01.04-139 (11/4/2013): http://download.wdc.com/nas/WDMyCloud-030104-139-20131028.zip 
+03.01.03-127 (9/13/2013):
+03.01.02-125 (9/5/2013):
+03.00.03-413 (8/1/2013) – Initial Release:
+
+v2.x Firmware (2nd Gen MyCloud / Single Bayd)
+
+2.31.183 (05/20/2019): http://download.wdc.com/nas/My_Cloud_GLCR_2.31.183.bin
+2.31.174 (03/26/2019): http://download.wdc.com/nas/My_Cloud_GLCR_2.31.174.bin
+2.31.163 (01/08/2019): http://download.wdc.com/nas/My_Cloud_GLCR_2.31.163.bin
+2.31.149 (10/18/2018): http://download.wdc.com/nas/My_Cloud_GLCR_2.31.149.bin
+2.30.196 (09/21/2018): http://download.wdc.com/nas/My_Cloud_GLCR_2.30.196.bin
+2.30.193 (05/08/2018): http://download.wdc.com/nas/My_Cloud_GLCR_2.30.193.bin
+2.30.181 (01/12/2018) : http://download.wdc.com/nas/My_Cloud_GLCR_2.30.181.bin
+2.30.172 (11/16/2017): http://download.wdc.com/nas/My_Cloud_GLCR_2.30.172.bin
+2.30.165 (04/12/2017): http://download.wdc.com/nas/My_Cloud_GLCR_2.30.165.bin
+2.21.126 (12/13/2016): http://download.wdc.com/nas/My_Cloud_GLCR_2.21.126.bin
+2.21.119 (9/20/2016): http://download.wdc.com/nas/My_Cloud_GLCR_2.21.119.bin
+2.21.111 (7/25/2016): http://download.wdc.com/nas/My_Cloud_GLCR_2.21.111.bin
+2.11.140 (3/29/2016): http://download.wdc.com/nas/My_Cloud_GLCR_2.11.140.zip
+2.11.133 (01/27/2016): http://download.wdc.com/nas/My_Cloud_GLCR_2.11.133.zip
+2.10.310 (10/28/2015): http://download.wdc.com/nas/My_Cloud_GLCR_2.10.310.zip
+2.10.302 (10/7/2015) – Initial Release: http://download.wdc.com/nas/My_Cloud_GLCR_2.10.302.zip
